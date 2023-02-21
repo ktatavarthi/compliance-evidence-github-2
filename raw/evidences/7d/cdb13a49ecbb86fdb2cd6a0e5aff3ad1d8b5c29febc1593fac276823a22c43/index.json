@@ -1,0 +1,32 @@
+{
+  "version": "2",
+  "id": "7dcdb13a49ecbb86fdb2cd6a0e5aff3ad1d8b5c29febc1593fac276823a22c43",
+  "date": "2023-02-21T05:36:01.608Z",
+  "evidence_type_id": "com.ibm.detect_secrets",
+  "evidence_type_version": "1.0.0",
+  "details": {
+    "result": "success",
+    "tool": "detect-secrets"
+  },
+  "origin": {
+    "toolchain_crn": "crn:v1:bluemix:public:toolchain:us-south:a/40111714589c4f7099032529b26a7a63:460b2b56-7646-4791-9ba8-a3612158b558::",
+    "pipeline_id": "5dfc056f-d8e4-4151-a0a9-519bed442a8d",
+    "pipeline_run_id": "58ca7e06-c420-4f30-98ab-325692cd553d",
+    "pipeline_run_url": "https://cloud.ibm.com/devops/pipelines/tekton/5dfc056f-d8e4-4151-a0a9-519bed442a8d/runs/58ca7e06-c420-4f30-98ab-325692cd553d/code-compliance-checks/run-stage/?env_id=ibm:yp:us-south",
+    "scope": "9edb78c2d63fedc8376cbddbac9560265b83d2b50af2b9804d1866535395fc2b"
+  },
+  "assets": [
+    {
+      "hash": "62ca437aa47f9ce2dab050e82c8fb5471fd821b1ece4cc119169bb827a99f20c",
+      "uri": "https://github.ibm.com/kalyan-prasad/hello-compliance-app.git#b8e36fcc8a0872545c72b5564a12d2f748ee95e1",
+      "url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cocoa-development/assets/62ca437aa47f9ce2dab050e82c8fb5471fd821b1ece4cc119169bb827a99f20c/index.json"
+    }
+  ],
+  "issues": [],
+  "attachments": [
+    {
+      "hash": "2f841ab80617f286bea8cb19df667c5e6b02b39c76b5a457be842abf6e159695",
+      "url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cocoa-development/attachments/2f841ab80617f286bea8cb19df667c5e6b02b39c76b5a457be842abf6e159695/content"
+    }
+  ]
+}
