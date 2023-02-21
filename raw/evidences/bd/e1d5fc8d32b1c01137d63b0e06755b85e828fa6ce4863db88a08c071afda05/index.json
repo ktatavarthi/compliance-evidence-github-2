@@ -1,0 +1,26 @@
+{
+  "version": "2",
+  "id": "bde1d5fc8d32b1c01137d63b0e06755b85e828fa6ce4863db88a08c071afda05",
+  "date": "2023-02-21T06:30:35.344Z",
+  "evidence_type_id": "com.ibm.pipeline_logs",
+  "evidence_type_version": "1.0.0",
+  "details": {
+    "result": "pending",
+    "tool": "pipeline"
+  },
+  "origin": {
+    "toolchain_crn": "crn:v1:bluemix:public:toolchain:us-south:a/40111714589c4f7099032529b26a7a63:460b2b56-7646-4791-9ba8-a3612158b558::",
+    "pipeline_id": "5dfc056f-d8e4-4151-a0a9-519bed442a8d",
+    "pipeline_run_id": "e9df39e8-4fc8-4574-a0b2-e303bb0d74d5",
+    "pipeline_run_url": "https://cloud.ibm.com/devops/pipelines/tekton/5dfc056f-d8e4-4151-a0a9-519bed442a8d/runs/e9df39e8-4fc8-4574-a0b2-e303bb0d74d5/setup/setup/?env_id=ibm:yp:us-south"
+  },
+  "assets": [
+    {
+      "hash": "a75584e0ee1c7834fd7283f67f2e32a40539736036d9683312526a708889e366",
+      "uri": "pipelinerun://5dfc056f-d8e4-4151-a0a9-519bed442a8d/e9df39e8-4fc8-4574-a0b2-e303bb0d74d5",
+      "url": "https://github.com/ktatavarthi/compliance-evidence-github-2/blob/master/raw/assets/a7/5584e0ee1c7834fd7283f67f2e32a40539736036d9683312526a708889e366/index.json"
+    }
+  ],
+  "issues": [],
+  "attachments": []
+}
